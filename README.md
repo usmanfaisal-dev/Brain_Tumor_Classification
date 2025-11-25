@@ -129,21 +129,7 @@ A heatmap was plotted using seaborn to visualize the confusion matrix and miscla
 ---
 
 # 📦 Project Folder Structure
-brain_tumor_project.zip
-│
-├── brain_tumor_prediction.ipynb
-└── dataset/
-    ├── train/
-    │   ├── glioma/
-    │   ├── meningioma/
-    │   ├── pituitary/
-    │   └── no_tumor/
-    │
-    └── test/
-        ├── glioma/
-        ├── meningioma/
-        ├── pituitary/
-        └── no_tumor/
+brain_tumor_prediction.ipynb
 
 
 
